@@ -8,6 +8,8 @@
 
 Hi, I'm Ahmed 👋 I'm a doctor, and I pulled at my beard for more than a year and a half. My hand would go there before I noticed. So I built Trich, a free Mac app that interrupts you the moment your hand reaches for it. After about 7 to 10 days my pulling dropped by almost 90% and I turned it off. That's my experience, not medical advice, and it might not work the same for you.
 
+https://github.com/user-attachments/assets/7a2a3845-c7bc-4cf7-a37f-8feeb0c64ab2
+
 ## How it works
 
 1. **Pick where you pull.** Beard, eyebrows, scalp, or all three.
